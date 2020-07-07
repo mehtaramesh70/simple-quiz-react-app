@@ -1,0 +1,14 @@
+.classes{
+  /* width: 70%;
+  margin: auto; */
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+li{
+  list-style: none;
+  margin-bottom: 5px;;
+}
